@@ -19,6 +19,6 @@ This Repository consists of all the tasks and exercises that were a part of NIEL
 ## Exercise 9
 [Task 9](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/1193861be902f1fe51ca9e3baa7b9740dc111851/Exercise%20-%209/Excersise%209.pdf)
 <br>
-[Program 9](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/1193861be902f1fe51ca9e3baa7b9740dc111851/Exercise%20-%209/Exercise%209.py)
+[Program 9](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2143b978a69944a82c98b109bbc113bff88163dd/Exercise%20-%209/Exercise%209.py)
 <br>
-![Program 9 Output](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/1193861be902f1fe51ca9e3baa7b9740dc111851/Exercise%20-%209/Excercise%209%20output.PNG)
+![Program 9 Output](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2143b978a69944a82c98b109bbc113bff88163dd/Exercise%20-%209/Excercise%209%20output.PNG)
