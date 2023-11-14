@@ -57,3 +57,16 @@ This Repository consists of all the tasks and exercises that were a part of NIEL
 <br>
 ![Program 15 Output 8](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2307b278b3f6f3f4f28c1cce9f201e41a471f6dc/Exercise%20-%2015/Excercise%2015%20h.PNG)
 <br>
+
+
+## Exercise 16
+[Task 16](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2bc5934ba3907cc5079c90f8e14f303280120bff/Exercise%20-%2016/Exercise16.pdf)
+<br>
+[Program 16](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2bc5934ba3907cc5079c90f8e14f303280120bff/Exercise%20-%2016/exercise16.py)
+<br>
+###### Output:-
+![Program 16 Output 1](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2bc5934ba3907cc5079c90f8e14f303280120bff/Exercise%20-%2016/Excercise%2016%20a.PNG)
+<br>
+![Program 16 Output 2](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2bc5934ba3907cc5079c90f8e14f303280120bff/Exercise%20-%2016/Excercise%2016%20b.PNG)
+<br>
+![Program 16 Output 3](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2bc5934ba3907cc5079c90f8e14f303280120bff/Exercise%20-%2016/Excercise%2016%20c.PNG)
