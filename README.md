@@ -23,3 +23,14 @@ This Repository consists of all the tasks and exercises that were a part of NIEL
 <br>
 ###### Output:- 
 ![Program 9 Output](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/2143b978a69944a82c98b109bbc113bff88163dd/Exercise%20-%209/Excercise%209%20output.PNG)
+
+
+## Exercise 14
+[Task 14](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/ecf91b9f5ffc0315fa577c0663b73cd50f6583d6/Exercise%20-%2014/Exercise14.pdf)
+<br>
+[Program 14](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/ecf91b9f5ffc0315fa577c0663b73cd50f6583d6/Exercise%20-%2014/Exercise%2014.py)
+<br>
+###### Output:-
+![Program 14 Output 1](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/ecf91b9f5ffc0315fa577c0663b73cd50f6583d6/Exercise%20-%2014/Excercise%2014%20output%201.PNG)
+<br>
+![Program 14 Output 2](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/ecf91b9f5ffc0315fa577c0663b73cd50f6583d6/Exercise%20-%2014/Excercise%2014%20output%202.PNG)
