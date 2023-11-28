@@ -1,5 +1,6 @@
 # NIELIT-Calicut-Python-course-
 This Repository consists of all the tasks and exercises that were a part of NIELIT Calicut Python Course
+# [Course Completion Certificate](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/b2a65bcab713816a05e302439fa4c472743b9f97/Course%20Completion%20Certificate.pdf)
 
 ## Exercise 7
 [Program 7A](https://github.com/ADVAIT135/NIELIT-Calicut-Python-course-/blob/c5fd3b8b59786ba9f9cda05d18ca5cc6f81722de/Exercise%20-%207/Exercise%207A.py)
